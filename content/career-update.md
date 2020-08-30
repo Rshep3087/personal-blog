@@ -1,18 +1,35 @@
 Title: Career Update
-Date: 2020-08-29 10:20
+Date: 2020-08-29 20:00
 Category: Blog
 Tags: career
 Slug: career-update
 Authors: Ryan Sheppard
 Summary: An Update on my Career
-Status: draft
 
 I have recently made the transition to software engineering full-time. I accepted a role as an Associate Software Engineer on the Cloud Center of Excellence team with T-Mobile.
 
+# How I Made the Transition
+I did not take a traditional route when becoming a software engineer. I have a Bachelor's in Mechanical Engineering, but have always had interest in software development.
+
 ## Before T-Mobile
-Before joining T-Mobile, I worked in two roles for Emerson Pressure Management, my most recent role a Research & Development Engineer and before R&D as a Test & Evaluation Engineer (T&E Engineer). These were both roles that I used my background in Mechanical Engineering for, but also had software aspects to them. In my role as a T&E Engineer I owned our data acquisition software and hardware solutions. The responsibility gave me the experience to realize I wanted to make the transition to software engineering full-time. I learned about source code control, unit testing, software architecture, continuous integration and other software topics while developing the applications used in our labs.
+I have worked in three professional roles before making the transition to software development. In all three roles I developed software as a significant responsibility of the role.
 
-## Learning Python
-I also spent time creating data analysis tools for our team in Python. I initially used Python to develop personal scripts for data manipulation and analysis in Excel and CSV files. We had monthly presentations in front of the team, where I ended up sharing the results from these tools. There was initial interest from team members to use these tools, but when I explained that these were Python scripts and would require the engineer to write code that interest fell off. I realized that there were significant time savings in common engineering data analysis tasks using these scripts. I took this as an opportunity to help the team and grow my skills in Python. I created a desktop data analysis application to share with my teams using PySimpleGUI, Pandas, Openpyxl and PyInstaller. PySimpleGUI was used for creating the graphical user interface. The application was quite simple and I need to provide a POC pretty quick to show my manager that it could be done.
+**Mechanical Engineering Co-op**
 
-Outside of Emerson, I spent time learning Python. To learn web development I developed StrengthLog, a Flask web application for tracking my workouts. I have also used the PyBites platform to learn more about the Python standard library. This was extremely beneficial during my interviews as I wrote unit test with pytest and practiced with pytest on the platform.
+Developed a small application for acquiring data during water heater tests with LabVIEW.
+
+**Test & Evaluation Engineer**
+
+Developed and maintained a large data acquisition application in LabVIEW. This was much more complex application with database interaction, REST API calls, and a complicated UI. This is where I first learned about software development for large applications. I learned about source code control, unit testing, continuous integration and software design as needed as the application grew.
+
+**Research & Development Engineer**
+
+In this role I really grew my Python skills by building a data analysis application for the Test & Evaluation team. This application used many Python libraries including pandas, requests, pytest, and PySimpleGUI. 
+
+**Outside of Work**
+
+To learn web development I developed StrengthLog, a Flask web application for tracking my workouts. I have also used the PyBites platform to learn more about the Python standard library. This was extremely beneficial during my interviews as I wrote unit test with pytest and practiced with pytest on the platform.
+
+# Moving Forward
+
+I plan to write a few posts each month over my learnings at work. I am excited to start my role with T-Mobile and know there will be tons of learnings to do. 

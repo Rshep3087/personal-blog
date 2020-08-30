@@ -1,12 +1,9 @@
-Title: Helium for Web Automation
-Date: 2020-08-11
+Title: Blog Introduction
+Date: 2020-08-29 12:00
 Category: Blog
-Tags: python, helium, testing
-Slug: helium-for-web-automation
+Tags: blog
+Slug: blog-introduction
 Authors: Ryan Sheppard
-Summary: An introduction to Helium, a Python library.
-Status: draft
+Summary: Blog Introduction
 
-# Helium for Web Automation
-
-I had the opportunity to use Helium for a small project at work testing the functionality of a website that was being developed at the time.
+This will be a place where I share my experiences transitioning to a Software Engineer from a Mechanical Engineer. I also plan to write small tutorials on software I find useful or interesting. You might find posts about music I have been listening to, but I will try to keep it tech focused. It seems like you have to have a blog if you are in tech.
